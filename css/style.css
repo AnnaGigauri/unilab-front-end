@@ -8,11 +8,13 @@
 .nav{
 	display: inline-block;
 	vertical-align: middle;
-	color: #F6F8F9;
 	margin-top: 20px;
     margin-left: 92px;
     font-size: 15px;
     z-index: 5;
+}
+.nav-gation{
+	color: black;
 }
 .nav-position{
 	position: fixed;
@@ -24,6 +26,7 @@
 	text-transform: lowercase;
 	font-weight: 900;
 	font-size: 18px;
+	color: black;
 }
 /*section 1 with positions-*/
 .title{
