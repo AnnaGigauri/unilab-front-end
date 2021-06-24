@@ -1,1 +1,111 @@
-style.css
+.logo1{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+/*navigation*/
+.nav{
+	display: inline-block;
+	vertical-align: middle;
+	color: #F6F8F9;
+	margin-top: 20px;
+    margin-left: 92px;
+    font-size: 15px;
+    z-index: 5;
+}
+.nav-position{
+	position: fixed;
+	background-color: white;
+	width: 100%;
+	z-index: 5;
+}
+.home{
+	text-transform: lowercase;
+	font-weight: 900;
+	font-size: 18px;
+}
+/*section 1 with positions-*/
+.title{
+	margin: 100px 40px 58px 140px;
+	font-size: 45px;
+}
+.bck{
+	background: #F6F8F9;
+}
+.dovforpositions{
+	position: relative;
+}
+.hhs{
+	position: absolute;
+	top: 400px;
+	color: white;
+}
+.divclass{
+	display: inline-block;
+	margin-top: 40px;
+	margin-left: 100px;
+}
+.paragraph1{
+	position: absolute;
+	width: 300px;
+	top: 470px;
+	left: 120px;
+}
+.paragraph2{
+	position: absolute;
+	width: 300px;
+	top: 470px;
+	left: 580px;
+}
+.paragraph3{
+	position: absolute;
+	width: 300px;
+	top: 470px;
+	left:1045px;
+}
+.titlees{
+	position: absolute;
+	top: 240px;
+	display: inline-block;
+	color: white;
+	font-weight: 200;
+}
+/*section 2*/
+.image{
+	margin: 100px 25px 58px 120px
+}
+/*section 2, pictures*/
+.nature{
+position: relative;
+}
+.classa{
+	position: absolute;
+	margin-left: 70px;
+}
+.classa2{
+	position: absolute;
+	top: 380px;
+	left: 600px;
+	color: white;
+}
+.forest{
+	margin-top: 500px;
+	margin-left: 70px;
+	margin-bottom: 250px;
+}
+.divsection{
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 200px;
+}
+.elephant2{
+	position: absolute;
+	width: 120px;
+	bottom: 870px;
+	right: 200px;
+	color: white;
+	z-index: 5;
+	font-size: 16px;
+}
